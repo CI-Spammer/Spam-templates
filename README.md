@@ -1,2 +1,2 @@
-# Spam-templates
+# Spam Templates
 Templates for spamming
